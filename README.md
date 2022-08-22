@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marinaoa
+- 👋 Hi, I’m Marina Almeida
 - 👀 I’m interested in Java-Script and other contents for I'm applying for DEV jobs 
 - 🌱 I’m currently learning Java-Script
 - 💞️ I’m looking to collaborate on related contents
